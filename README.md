@@ -39,7 +39,8 @@
 
 ### Рассмотрим на примере rollerball_config.
 
-![image](https://github.com/MsKat04/WorkShop5/assets/116561169/c530c4ed-29e9-4476-8743-91686ad1311b)
+![image](https://github.com/MsKat04/WorkShop5/assets/116561169/a94f90e6-5b18-42c8-9c0d-84d009c4ff66)
+
 
 
 Здесь я нашла 3 параметра:
